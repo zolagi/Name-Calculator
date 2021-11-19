@@ -1,2 +1,2 @@
-# Devilish-666-name-Calculator
+# Devilish-name-Calculator
 This is Simple Bootstrap 4 and PHP Name calculator
